@@ -1,3 +1,3 @@
 # forking-test
 
-#SEAN SUCKS
+# SEAN is a mean person to assign random things
